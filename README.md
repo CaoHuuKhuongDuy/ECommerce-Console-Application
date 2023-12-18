@@ -26,16 +26,16 @@ Việc quản lý mối quan hệ cha-con giữa các danh mục rất quan tr�
 
 ## Các design pattern đã sử dụng
 ### Singleton
-![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/singleton)
+![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/singleton.png)
 ### Builder
-![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/builder)
+![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/builder.png)
 ### Factory Method
-![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/factory)
+![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/factory.png)
 ### Iterator
-![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/iterator)
+![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/iterator.png)
 ### State
-![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/state)
+![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/state.png)
 ### Strategy
-![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/strategy)
+![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/strategy.png)
 
 
