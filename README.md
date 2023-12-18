@@ -1,4 +1,4 @@
-# Final Lab Project OOP - ECommerce
+# Cao Hữu Khương Duy - 22127083 - 22CLC06 - Final Lab Project OOP - ECommerce application
 ## Class GlobalVariable
 ![Logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/GlobalVariable.png)
 Class này chứa các class thành viên nhằm để load các thông tin của ứng dụng.
@@ -15,3 +15,6 @@ ListAccount sẽ chứa một vector các Account đã được đăng ký. Các
 Phương thức getPassword() và getUsername() cũng được "giấu" trong private của Base class và chỉ có ListAccount có thể truy cập nhằm xác thực thông tin đăng nhập.
 ## Class ListStore
 ![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/ListStore.png)
+ListStore là một vector chứa các class Store nhằm dễ dàng thêm / xóa khi người bán muốn đóng / mở thêm cửa hàng.
+Mối quan hệ giữa chúng (A --> B : B chứa các vector A) : Product --> ListProduct --> Store --> ListStore. Biểu hiện mối tương quan logic của các object này trong thực tế
+
