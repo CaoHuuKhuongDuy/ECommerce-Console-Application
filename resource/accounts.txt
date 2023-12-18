@@ -3,9 +3,9 @@ kduy
 123
 khuong duy
 khuongduy@yahoo.com
-1234
+1
 6 5 2004
-104900000
+0
 belovedshark
 123
 Khanh Shu
@@ -19,7 +19,7 @@ kduy
 kduy@gmail.com
 0
 6 5 2004
-460480000
+0
 ksha
 123
 khanh shu
@@ -33,4 +33,4 @@ khanh linh
 khlinh@kduy.com
 1
 23 1 2004
-10100000
+0
