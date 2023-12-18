@@ -38,4 +38,6 @@ Việc quản lý mối quan hệ cha-con giữa các danh mục rất quan tr�
 ### Strategy
 ![logo](https://github.com/CaoHuuKhuongDuy/ECommerce-Console-Application/blob/main/image/strategy.png)
 
-
+## Khả năng mở rộng cửa dự án
+1. Tạo thêm class SellerAccount, cung cấp trình quản lý cho seller.
+2. Không sử dụng Singleton đối với ShoppingCart và lưu thêm giỏ hàng vào data của người dùng khi người dùng thoát ứng dụng.
