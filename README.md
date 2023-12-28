@@ -21,6 +21,7 @@ Mối quan hệ giữa chúng (A --> B : B chứa các vector A) : Product --> L
 
 ## ListProductType
 ![logo](https://media.discordapp.net/attachments/1097989918694842403/1186254976155140166/productType.png?ex=65929509&is=65802009&hm=caa1f08c82de3f44bfcc8084522aa94eac5630f63ba793a2461a27ccb62baad4&=&format=webp&quality=lossless&width=537&height=698)
+
 Việc quản lý mối quan hệ cha-con giữa các danh mục rất quan trọng, giúp ta dễ dàng kiểm tra voucher loại A có được dùng cho loại B hay không (được nếu B là danh mục con của A). 
 Ở đây mình giả sử mối quan hệ giữa chúng tạo thành 1 rừng (biểu diễn đồ thị được thành các cây). Lúc này mình sử dụng DFS để tính được timeIn, timeOut (thời gian ra vào của một đỉnh (danh mục)). Lúc này nếu A.timeIn <= B.timeIn <= A.timeOut thì B là danh mục con của A. Vì vậy ta sẽ truy vấn được nhanh với độ phức tạp O(1).
 
