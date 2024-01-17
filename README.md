@@ -9,7 +9,7 @@ Class này chứa các class thành viên nhằm để load các thông tin củ
 - ListVoucher: chứa các voucher của ứng dụng
 ## Class ListAccount
 ![logo](https://media.discordapp.net/attachments/1097989918694842403/1186255002621202513/listAccount.png?ex=65929510&is=65802010&hm=186a2c0842e41fe60a095e29e3f4d7fe3b27e82764d684434963960a1e9f1b03&=&format=webp&quality=lossless&width=942&height=698)
-ListAccount sẽ chứa một vector các Account ###đã được đăng ký. Các Account này sẽ được load và save vào database khi chương trình khởi chạy/kết thúc (thông qua constructor và destructor).
+ListAccount sẽ chứa một vector các Account đã được đăng ký. Các Account này sẽ được load và save vào database khi chương trình khởi chạy/kết thúc (thông qua constructor và destructor).
 ### Class CustomerAccount
 Đây là Base class của BuyerAccount, ta tạo một base class vậy hướng tới tính mở rộng của ứng dụng. Sau này sẽ có thêm class con của CustomerAccount là SellerAccount nhằm cung cấp chương trình quản lý các cửa hàng cho người bán. 
 Phương thức getPassword() và getUsername() cũng được "giấu" trong private của Base class và chỉ có ListAccount có thể truy cập nhằm xác thực thông tin đăng nhập.
